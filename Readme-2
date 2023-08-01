@@ -1,0 +1,6 @@
+  Script'i Crontab ile çalıştırma
+
+1. Crontab'i çalıştırabilmek için öncelikle terminale crontab -e komutu yazıldı ve Enter'a basıldı.
+2. Sonrasında açılan kısma 0 * * * * <konum> yazıldı.
+3. Sonrasında kaydedildi ve çalıştı.
+4. Sonraasında kontrol amaçlı crontab -l komutu yazıldı.
